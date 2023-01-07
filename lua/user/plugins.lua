@@ -58,6 +58,7 @@ return packer.startup(function(use)
   use "lewis6991/impatient.nvim"
   use "folke/which-key.nvim"
   use "kylechui/nvim-surround"
+  use "petertriho/nvim-scrollbar"
   -- use "rmagatti/auto-session"
 
   -- Colorschemes

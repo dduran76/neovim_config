@@ -269,6 +269,11 @@ _G.packer_plugins = {
     path = "/home/dduran/.local/share/nvim/site/pack/packer/start/nvim-navic",
     url = "https://github.com/SmiteshP/nvim-navic"
   },
+  ["nvim-scrollbar"] = {
+    loaded = true,
+    path = "/home/dduran/.local/share/nvim/site/pack/packer/start/nvim-scrollbar",
+    url = "https://github.com/petertriho/nvim-scrollbar"
+  },
   ["nvim-surround"] = {
     loaded = true,
     path = "/home/dduran/.local/share/nvim/site/pack/packer/start/nvim-surround",
